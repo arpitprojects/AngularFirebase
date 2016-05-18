@@ -1,0 +1,28 @@
+body , html{
+    font-family: 'Lato', sans-serif !important;
+}
+nav{
+    background-color: white !important;
+}
+input{
+    border:1px soilid transparent !important;
+}
+input.ng-invalid.ng-touched{
+    border: 1px solid darkred !important;
+}
+input.ng-valid.ng-touched{
+    border: 1px solid green !important;
+}
+#login-register {
+    color:#2962ff;
+}
+ #login-register a{
+     color:#22baa0;
+ }
+ .message{
+     color:#22baa0;
+     text-align:center;
+ }
+ .error{
+     color:red;
+ }
